@@ -1,0 +1,7 @@
+<button (click)="showStocks()">Get Stocks</button>
+<div *ngFor="let stock of stockList">
+    <h1>{{stock.symbol}}</h1>
+    <p>{{stock.name}}</p>
+    <p>{{stock.currency}}</p>
+    <p>{{stock.exchange}}</p>
+</div>
