@@ -3,7 +3,7 @@ backend/exchange/migrations/__pycache__/*
 backend/stock/__pycache__/*
 backend/stock/migrations/__pycache__/*
 backend/tradingtree/__pycache__/*
-backend/.env
+backend/tradingtree/.env
 backend/venv/*
 frontend/.angular/*
 frontend/.vscode/*
